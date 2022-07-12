@@ -22,8 +22,9 @@ If you didn't do it already, you will need a network.
 ```shell
 docker network create nginx-net
 ```
-
+Go to the root folder with Dockerfile
 ```shell
+cd ../../../ #NP-Classifiter folder
 make server-compose
 ```
 
