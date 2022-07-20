@@ -34,3 +34,11 @@ models/CLASS/000001/variables/variables.index
 NP_classifier_class_V1.hdf5
 NP_classifier_pathway_V1.hdf5
 NP_classifier_superclass_V1.hdf5
+pages_plugin.py
+data/database.db-shm
+data/database.db-wal
+pages/batch_page.py
+data/database.db-wal
+data/database.db-shm
+data/database.db-wal
+data/database.db-shm
