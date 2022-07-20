@@ -8,3 +8,10 @@ Classifier/models_folder/models/SUPERCLASS
 Classifier/models_folder/models/*.hdf5
 Classifier/models_folder/models/models.zip
 Classifier/models_folder/models/models.config
+Classifier/index.html
+Classifier/models.zip
+Classifier/view\?usp=sharing
+notebooks/.DS_Store
+notebooks/.ipynb_checkpoints/BatchClassificationNotebook-checkpoint.ipynb
+notebooks/__pycache__/fapp.cpython-39.pyc
+notebooks/__pycache__/fingerprint_handler.cpython-39.pyc

@@ -1,0 +1,5 @@
+,SMILES,pathway_results,superclass_results,class_results,isglycoside
+0,"CC(=O)OC1=CC=CC=C1C(=O)O
+",['Shikimates and Phenylpropanoids'],['Phenolic acids (C6-C1)'],['Simple phenolic acids'],False
+1,"CC1C(O)CC2C1C(OC1OC(COC(C)=O)C(O)C(O)C1O)OC=C2C(O)=O
+",['Terpenoids'],['Monoterpenoids'],['Iridoids monoterpenoids'],True
