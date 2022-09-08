@@ -2,8 +2,7 @@
 
 ![production-integration](https://github.com/mwang87/NP-Classifier/workflows/production-integration/badge.svg)
 
-We typically will deploy this locally. To bring everything up, 
-you need docker and docker-compose.
+Brightseed internal webserver: [http://192.168.128.240:6541/](http://192.168.128.240:6541/)
 
 ### Local Server
 
