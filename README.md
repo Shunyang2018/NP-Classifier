@@ -2,8 +2,9 @@
 
 ![production-integration](https://github.com/mwang87/NP-Classifier/workflows/production-integration/badge.svg)
 
-Brightseed internal webserver: [http://192.168.128.240:6541/](http://192.168.128.240:6541/) 
-batch mode api can be found [here](notebooks/BatchClassificationNotebook.ipynb).
+**Brightseed internal webserver**: [http://192.168.128.240:6541/](http://192.168.128.240:6541/)  
+
+**batch mode api** can be found [here](notebooks/BatchClassificationNotebook.ipynb).
 
 ### Local Server
 
