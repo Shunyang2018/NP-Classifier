@@ -16,3 +16,4 @@ notebooks/.ipynb_checkpoints/BatchClassificationNotebook-checkpoint.ipynb
 notebooks/__pycache__/fapp.cpython-39.pyc
 notebooks/__pycache__/fingerprint_handler.cpython-39.pyc
 Classifier/.DS_Store
+.DS_Store
